@@ -1,4 +1,4 @@
-# Mobile Framework for EOS mainnet
+## EOSKit: Mobile Framework for EOS mainnet
 
 Language: Swift
 OS: iOS
